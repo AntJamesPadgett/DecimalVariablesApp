@@ -1,0 +1,15 @@
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.exe
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.deps.json
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.runtimeconfig.json
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.dll
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\ref\DecimalVariables.dll
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net6.0\DecimalVariables.pdb
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.csproj.AssemblyReference.cache
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.AssemblyInfoInputs.cache
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.AssemblyInfo.cs
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.dll
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\ref\DecimalVariables.dll
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.pdb
+C:\Users\antho\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.genruntimeconfig.cache
